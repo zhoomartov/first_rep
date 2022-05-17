@@ -1,0 +1,121 @@
+#a = 'asdfg ASDFG'
+#print(a)
+
+
+#name = 'Tom Kane'
+#name.startswith('S')
+
+
+#print(name.endswith('e'))
+
+
+
+#s = 'qwerty'
+#f = '12345'
+#ff = format(s)
+#print(ff)
+
+#d = 'qwertynamestartswithnamndswith'
+#print(d.split('a'))
+
+
+#print(d.center(55))
+
+#print(''.join(d))
+
+#print(d.count('name'))
+
+
+#j = d.isalpha()
+#print(d.isdigit())
+#print(j)
+
+#a = input('символ')
+
+#b = 'GitHub'
+
+#print(b.split(a))
+
+
+
+
+
+
+
+
+#a ='Ботнет IPStorm , в который ранее входили лишь Windows-машины, увеличился до 13 500 зараженных систем'
+#print(a.replace('е','3'))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#nave = input('имя')
+#years =input('сколько вам лет')
+#cinma =input('ваш любимый фильм')
+#print(f'Здравствуйте {nave}  Oo  {cinma} прикольный фильм')
+
+
+
+
+
+
+
+
+
+
+'''
+a = 'Google создаст специальную команду для поиска багов в важных приложениях'
+aas = a.count(' ')
+print(aas+1)
+'''
+
+
+
+
+
+
+
+
+
+'''
+a = 'Самые важные собЫтия в миРе инфосека за сентябрь'
+print('|'.join (a))
+'''
+
+
+
+
+
+
+
+'''
+a ='хакеры слили в сеть данные пакистанской энергетической компании k-Electric'
+print(a.upper())
+'''
+
+'''
+a =input()
+b =input()
+a =int(a)
+b =int(b)
+print(str(a+b))
+'''
+
+
+
+
+a = input()
+b = int(input())
+print(a*b)
