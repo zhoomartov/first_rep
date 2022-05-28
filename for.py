@@ -174,7 +174,7 @@ for i in range(len(names)):
 	if i % 2  == 1:
 		print(names [i])
 '''
-
+'''
 a = input('')
 if len(a) == 3:
 	print(' это число трехзначное')
@@ -201,4 +201,3 @@ for i in range(-100, 101):
 
 
 print(gen_list)
-'''
